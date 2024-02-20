@@ -36,7 +36,7 @@ Steps To Download--->
 
 To Terminate Kafka Event rm -rf /tmp/kafka-logs /tmp/zookeeper
 
-## To Delete Topics
+### **_**## To Delete Topics**_**
 
 Make Changes in Server.Properties
 
