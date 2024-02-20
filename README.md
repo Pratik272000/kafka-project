@@ -6,7 +6,6 @@ Steps To Download--->
 1.https://kafka.apache.org/downloads 2.Download Version Latest
 
 ## Steps To Setup
-
 1.Extract it 2.Copy it in C drive with folder name "Kafka"
 
 ## Steps To Configure
